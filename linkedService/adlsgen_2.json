@@ -1,0 +1,12 @@
+{
+	"name": "adlsgen_2",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://policysalesstorageaccont.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDVDRkIyQjA4LUMxQzEtNDQ2RS1BMUZGLUIxNUU2MjMxQ0I5MV9iNTM2NDdlMi1iNjk1LTQ3OTctYjNmZS1mZGI5NGY4Y2JmOTMiDQp9"
+		}
+	}
+}

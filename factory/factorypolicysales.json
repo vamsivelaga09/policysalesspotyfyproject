@@ -1,0 +1,9 @@
+{
+	"name": "factorypolicysales",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a3b1b15b-f7d6-43a4-bd29-8c4d594b0de1",
+		"tenantId": "c08536cf-145f-4de3-a64e-1e1f29857346"
+	}
+}
